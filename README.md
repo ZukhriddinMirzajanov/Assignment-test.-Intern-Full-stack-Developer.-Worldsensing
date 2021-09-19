@@ -1,6 +1,6 @@
 
 
-System for processing data from multiple sensors source code
+Source code of System for processing data from multiple sensors
 =============================
 
 ## General info
