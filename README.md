@@ -1,6 +1,6 @@
 
 
-Assignment-test.-Intern-Full-stack-Developer.-Worldsensingsource code
+System for processing data from multiple sensors source code
 =============================
 
 ## General info
